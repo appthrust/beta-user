@@ -72,7 +72,7 @@ PostgreSQLやAWSのRDSデータベース、 RedisなどのミドルウェアをU
 ## 募集期間
 2023年9月6日~2023年9月10日 (期間は予告なく変更・終了となる場合がございます)
 ## お申し込みフォーム
-https://docs.google.com/forms/d/1e4_iWsIr23R4-lrA62DNGDzjNZ-2KcF0wreN00imaoA/edit
+https://docs.google.com/forms/d/1e4_iWsIr23R4-lrA62DNGDzjNZ-2KcF0wreN00imaoA
 
 ご入力いただいた個人情報は、ベータテストユーザー募集及びサービスの改善のために利用いたします。
 当社におけるその他取り扱いはプライバシーポリシーに従います。ご同意の上、ご応募ください。

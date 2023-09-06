@@ -71,6 +71,9 @@ PostgreSQLやAWSのRDSデータベース、 RedisなどのミドルウェアをU
 - 5名
 ## 募集期間
 2023年9月6日~2023年9月10日 (期間は予告なく変更・終了となる場合がございます)
+## ベータ終了時の条件
+- 構築されたAppThrust環境は削除しません
+- 料金は無料です
 ## お申し込みフォーム
 https://docs.google.com/forms/d/1e4_iWsIr23R4-lrA62DNGDzjNZ-2KcF0wreN00imaoA
 
